@@ -1,0 +1,5 @@
+D:\Programação\c-sharp\aulas\obj\Debug\net8.0\aulas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\c-sharp\aulas\obj\Debug\net8.0\aulas.AssemblyInfoInputs.cache
+D:\Programação\c-sharp\aulas\obj\Debug\net8.0\aulas.AssemblyInfo.cs
+D:\Programação\c-sharp\aulas\obj\Debug\net8.0\aulas.csproj.CoreCompileInputs.cache
+D:\Programação\c-sharp\aulas\obj\Debug\net8.0\aulas.sourcelink.json
