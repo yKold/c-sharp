@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gvito\\.nuget\\packages\\": {}
+    "C:\\Users\\Gabriel yKold\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\c-sharp\\aulas\\aulas.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel yKold\\Documents\\GitHub\\c-sharp\\aulas\\aulas.csproj",
       "projectName": "aulas",
-      "projectPath": "D:\\Programação\\c-sharp\\aulas\\aulas.csproj",
-      "packagesPath": "C:\\Users\\gvito\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\c-sharp\\aulas\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel yKold\\Documents\\GitHub\\c-sharp\\aulas\\aulas.csproj",
+      "packagesPath": "C:\\Users\\Gabriel yKold\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel yKold\\Documents\\GitHub\\c-sharp\\aulas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gvito\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Gabriel yKold\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
