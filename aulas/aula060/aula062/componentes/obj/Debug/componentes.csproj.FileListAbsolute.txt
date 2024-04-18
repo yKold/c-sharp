@@ -1,0 +1,13 @@
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\bin\Debug\componentes.exe.config
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\bin\Debug\componentes.exe
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\bin\Debug\componentes.pdb
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.csproj.AssemblyReference.cache
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.F_principal.resources
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.Properties.Resources.resources
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.csproj.GenerateResource.cache
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.csproj.CoreCompileInputs.cache
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.exe
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.pdb
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.F_veiculos.resources
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.F_checkbox.resources
+D:\Programação\c-sharp\aulas\aula060\aula062\componentes\obj\Debug\componentes.F_checkedlistbox.resources

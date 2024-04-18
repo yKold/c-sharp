@@ -1,0 +1,10 @@
+D:\Programação\c-sharp\aulas\aula060\aula060\bin\Debug\aula060.exe.config
+D:\Programação\c-sharp\aulas\aula060\aula060\bin\Debug\aula060.exe
+D:\Programação\c-sharp\aulas\aula060\aula060\bin\Debug\aula060.pdb
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.csproj.AssemblyReference.cache
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.Form1.resources
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.Properties.Resources.resources
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.csproj.GenerateResource.cache
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.csproj.CoreCompileInputs.cache
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.exe
+D:\Programação\c-sharp\aulas\aula060\aula060\obj\Debug\aula060.pdb
